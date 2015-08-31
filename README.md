@@ -1,3 +1,12 @@
+#Halilou-Soro.me
+Mon site soro-halilou.me en cours de cponatruction utilise bootstrap et et le theme Grayscale dont vous trouverez plus d'information ci-dessous.  
+
+#Comment ouvrir le site?  
+Tele chargez le code source et ouvrez le fichier index.html avec votre navigateur web (ex: firefox)
+Vous trouverez mon cv dans le menu "Mon CV".
+
+Merci!
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
