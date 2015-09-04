@@ -1,4 +1,4 @@
-## MOOO Afrique innovation developppeur  2015.me
+## MOOC Afrique innovation developppeur  2015.me
 # Activité Fil rouge, étape 2 - Bootstrap
 Mon CV en ligne avec Bootstrap intégré et utilisant et le theme Grayscale.
 
